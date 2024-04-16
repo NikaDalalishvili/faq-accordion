@@ -312,6 +312,8 @@ footer {
   .faq-btn {
     font-size: 18px;
     line-height: 21px;
+
+    gap: 0;
   }
 
   .faq-answer {
